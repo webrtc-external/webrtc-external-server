@@ -1,0 +1,12 @@
+{
+    "database": {
+        "type": "postgres",
+        "host": "9.135.74.14",  
+        "port": 5432,
+        "username": "postgres_admin",
+        "password": "rWMxN*9462PvKd",
+        "database": "webrtc-external",
+        "logger": "simple-console",
+        "logging": true
+    }
+}
