@@ -32,8 +32,7 @@ async function handleConn(socket: WebSocket, request: IncomingMessage ) {
     socket.on('pong', async (data: Buffer) => {
         
     });
-
-
+    
     socket.on('close', async (code: number, reason: Buffer) => {
 
     });
